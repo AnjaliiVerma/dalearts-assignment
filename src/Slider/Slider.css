@@ -1,0 +1,20 @@
+.slider{
+    width: 600px;
+    margin: 30px 355px;
+}
+.css-13xfq8m-MuiTabPanel-root {
+    padding: 0 !important;
+  }
+
+  .owl-stage{
+    display: flex;
+
+    transition: none !important;
+    
+ 
+  }
+  .owl-drag {
+    
+    overflow-x: hidden !important;
+  }
+ 
